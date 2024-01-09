@@ -9,3 +9,5 @@ Description: An NFL box score if you don't know already is basically a table tha
 Requirements: I suggest you download Eclipse or another IDE (Integrated Development Environment) that can run Java.  Also an example file is provided in this repository (LA Rams Offense.txt) that will contain the team name on the first line and player names on the following lines (keep team name and individual player names on seperate lines).
 
 Important: Download the Madden09.png file and add it to your bin folder.  That is why the error shows up because it is trying to call the png file but it is not in the bin folder.
+
+Mission: Improve the program and create one for defense and special teams.
